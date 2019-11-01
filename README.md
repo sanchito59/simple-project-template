@@ -18,7 +18,7 @@ This application...
  4. Open directory (folder) contents.(un-zip file).
  5. Run index.html.
 
-### Specifications
+### Specifications:
 
 |Symbol| Value  |
 |---|---|
@@ -37,15 +37,16 @@ This application...
 |input|output2|
 |input|output3|
 
-### Support and contact details
-
-If you run into any issues running **Project Title**, please contact **developer**.
-
 ### Technologies Used
 
  - HTML5
  - CSS3
  - JavaScript
+
+### Support and Contact
+
+If you run into any issues running **Project Title**, please contact **developer**.
+
 
 ### License
 
