@@ -26,16 +26,16 @@ This application...
 |b|1|
 |c|2|
 |d|3|
-|C|4|
-|D|5|
-|E|6|
+|c|4|
+|d|5|
+|e|6|
 
 |Input|Output|
 |---|---|
 |input|return false|
-|input|output1|
-|input|output2|
-|input|output3|
+|input1|output1|
+|input2|output2|
+|input3|output3|
 
 ### Technologies Used
 
