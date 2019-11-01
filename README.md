@@ -39,7 +39,7 @@ This application...
 
 ### Support and contact details
 
-If you run into any issues running **Program Name**, please contact...
+If you run into any issues running **Project Title**, please contact **developer**.
 
 ### Technologies Used
 
