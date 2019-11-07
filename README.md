@@ -8,15 +8,22 @@ This application...
 
 ### Setup/Installation Requirements
 
-#### Zip:
-
 ![enter image description here](https://i.imgur.com/UStodOA.jpg "read")
 
- 1. Click the link shown in the above photo and allow your browser some time to download the file.
+#### Zip:
+
+1. Click [here](exampleURLToUserRepository) to go to the repository location where you will find the clone/download menu.
+
  2. Navigate to the directory (folder) that contains your browser's downloads.
  3. Double-click on **Project Title** directory (folder).
- 4. Open directory (folder) contents.(un-zip file).
+ 4. Open directory contents by extracting/unzipping documents from folder.
  5. Run index.html.
+
+#### Clone: 
+
+ 1. To clone the repository, from your terminal or command line enter, "git remote add exampleCredentials cloneLinkURL"
+ 2. Clone Link: https://github.com/userName/exampleRepositoryURL.git
+ 3. Once the repository finishes downloading, open index.html.
 
 ### Specifications:
 
@@ -40,13 +47,12 @@ This application...
 ### Technologies Used
 
  - HTML5
- - CSS3
- - JavaScript
+ - CSS3/Boostrap/SCSS
+ - JavaScript/jQuery
 
 ### Support and Contact
 
 If you run into any issues running **Project Title**, please contact **developer**.
-
 
 ### License
 
